@@ -1,2 +1,7 @@
 # playground-multi-vagrant
-Multiple Vagrant machines
+Example of multiple Vagrant machines in one file
+
+```bash
+vagrant up
+vagrant ssh web1
+```
